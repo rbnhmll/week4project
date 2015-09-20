@@ -1,3 +1,5 @@
+// Cohort Name Generator made by Robin Hamill & Angus Wong.
+
 $(document).ready(function(){
 
 	// Adjective String
